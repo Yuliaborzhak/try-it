@@ -1,0 +1,42 @@
+{
+  "plant" : "images/image-block/img1.png",
+  "sea" : "images/image-block/img2.png",
+  "president" : "images/image-block/president.svg",
+  "mountain" : "images/image-block/img3.png",
+
+  "participants" : [
+    {
+      "image" : "images/participants/L-KG-Illustrationen-1.png",
+      "alt-text" : "Privatperson",
+      "participants-title" : "participants-title-1",
+      "participants-text" : "participants-text-1"
+    },
+    {
+      "image" : "images/participants/L-KG-Illustrationen-2.png",
+      "alt-text" : "Unternehmen",
+      "participants-title" : "participants-title-2",
+      "participants-text" : "participants-text-2"
+    },
+    {
+      "image" : "images/participants/L-KG-Illustrationen-3.png",
+      "alt-text" : "Verbände & Organisationen",
+      "participants-title" : "participants-title-3",
+      "participants-text" : "participants-text-3"
+    },
+    {
+      "image" : "images/participants/L-KG-Illustrationen-4.png",
+      "alt-text" : "Organisationen",
+      "participants-title" : "participants-title-4",
+      "participants-text" : "participants-text-4"
+    }
+  ],
+
+  "logo_1" : "images/partners/logo_1.jpeg",
+  "logo_2" : "images/partners/logo_2.jpeg",
+  "logo_3" : "images/partners/logo_3.jpeg",
+  "logo_4" : "images/partners/logo_4.jpeg",
+  "logo_5" : "images/partners/logo_5.jpeg",
+  "logo_6" : "images/partners/logo_6.jpeg",
+  "logo_7" : "images/partners/logo_7.jpeg",
+  "logo_8" : "images/partners/logo_8.jpeg"
+}
